@@ -1,0 +1,5 @@
+/.env
+/skills/
+/.playwright-mcp/
+/all.xlsx
+/sysengi_download.log
